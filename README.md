@@ -1,4 +1,5 @@
-Procrastination via education This is my attempt at creating a personal website, looking to learn more programming languages, and utilising git and Docker development.
+Procrastination via education;  
+This is my attempt at creating a personal website, looking to learn more programming languages, and utilising git and Docker development.
 
 I am builiding this project with the tutorial at [React Project Tutorial – Build a Portfolio Website w/ Advanced Animations](https://youtu.be/bmpI252DmiI)
 
