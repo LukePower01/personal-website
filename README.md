@@ -1,3 +1,7 @@
+Procrastination via education This is my attempt at creating a personal website, looking to learn more programming languages, and utilising git and Docker development.
+
+I am builiding this project with the tutorial at [React Project Tutorial – Build a Portfolio Website w/ Advanced Animations](https://youtu.be/bmpI252DmiI)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
